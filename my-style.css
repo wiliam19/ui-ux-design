@@ -1,0 +1,16 @@
+p {
+    text-align: justify;
+    font-size: 18pt;
+    color: blue;
+   }
+   .intro-paragraph{
+    font-weight: bold;
+    color: black;
+}
+.last-paragraph{
+ font-style:italic;
+ color:black;
+}
+h1 {
+ text-align:center;
+}
